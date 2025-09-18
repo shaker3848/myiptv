@@ -142,8 +142,7 @@ http://192.168.2.1:4022/rtp/239.45.1.10:5140
 http://192.168.2.1:4022/rtp/239.45.1.1:5140
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://epg.deny.vip/cctv/CCTV-5+.png",CCTV-5+HD
 http://192.168.2.1:4022/rtp/233.18.204.67:5140
-#EXTINF:-1,体育ipv6
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
+
 
 
 
