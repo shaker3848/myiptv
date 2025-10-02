@@ -154,6 +154,26 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1,CCTV16 4K
+http://192.168.2.1:4022/rtp/233.18.204.215:5140
+#EXTINF:-1,广东卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.218:5140
+#EXTINF:-1,深圳卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.219:5140
+#EXTINF:-1,东方卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.224:5140
+#EXTINF:-1,四川卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.225:5140
+#EXTINF:-1,江苏卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.226:5140
+#EXTINF:-1,湖南卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.227:5140
+#EXTINF:-1,江苏卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.228:5140
+#EXTINF:-1,山东卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.228:5140
+#EXTINF:-1,浙江卫视 4K
+http://192.168.2.1:4022/rtp/233.18.204.229:5140
 
 
 
