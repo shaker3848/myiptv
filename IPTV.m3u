@@ -21,7 +21,6 @@ http://192.168.2.1:4022/udp/233.18.204.47:5140
 http://192.168.2.1:4022/udp/233.18.204.104:5140
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="上海",纪实科教HD
 http://192.168.2.1:4022/udp/239.45.1.14:5140
-
 #EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="电影",CHC家庭影院HD
 http://192.168.2.1:4022/udp/233.18.204.173:5140
 #EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="电影",CHC动作电影HD
@@ -34,7 +33,6 @@ http://192.168.2.1:4022/udp/233.18.204.169:5140
 http://192.168.2.1:4022/udp/233.18.204.170:5140
 #EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="https://live.fanmingming.com/tv/百事通4K儿童.png" group-title="电影",百事通4K儿童
 http://192.168.2.1:4022/udp/233.18.204.171:5140
-
 #EXTINF:-1 tvg-id="350" tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="地方",家庭理财
 http://192.168.2.1:4022/udp/233.18.204.157:5140
 #EXTINF:-1 tvg-id="75" tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="地方",财富天下
@@ -53,7 +51,6 @@ http://192.168.2.1:4022/udp/233.18.204.49:5140
 http://192.168.2.1:4022/udp/233.18.204.59:5140
 #EXTINF:-1 tvg-id="118" tvg-name="东方财经" tvg-logo="https://epg.deny.vip/df/东方财经.png" group-title="地方",东方财经HD
 http://192.168.2.1:4022/udp/233.18.204.65:5140
-
 #EXTINF:-1 tvg-id="104" tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="卡通",哈哈炫动HD
 http://192.168.2.1:4022/udp/233.18.204.54:5140
 #EXTINF:-1 tvg-id="96" tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="卡通",动漫秀场HD
@@ -64,7 +61,6 @@ http://192.168.2.1:4022/udp/233.18.204.151:5140
 http://192.168.2.1:4022/udp/233.18.204.113:5140
 #EXTINF:-1 tvg-id="167" tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="卡通",卡酷少儿HD
 http://192.168.2.1:4022/udp/233.18.204.109:5140
-
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="4K频道",东方卫视 4K
 http://192.168.2.1:4022/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="4K频道",浙江卫视 4K
@@ -83,8 +79,6 @@ http://192.168.2.1:4022/udp/233.18.204.226:5140
 http://192.168.2.1:4022/udp/233.18.204.227:5140
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="4K频道",山东卫视 4K
 http://192.168.2.1:4022/udp/233.18.204.228:5140
-
-
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
 http://192.168.2.1:4022/udp/233.18.204.168:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2HD
@@ -147,7 +141,6 @@ http://192.168.2.1:4022/udp/233.18.204.184:5140
 http://192.168.2.1:4022/udp/233.18.204.185:5140
 #EXTINF:-1 tvg-id="91" tvg-name="央视文化精品" tvg-logo="https://epg.deny.vip/cctv/CCTV-YSWHJP.png" group-title="央视",央视文化精品HD
 http://192.168.2.1:4022/udp/233.18.204.186:5140
-
 #EXTINF:-1 tvg-id="155" tvg-name="中国教育-1" tvg-logo="https://epg.deny.vip/cctv/CETV-1.png" group-title="教育",中国教育-1HD
 http://192.168.2.1:4022/udp/233.18.204.98:5140
 #EXTINF:-1 tvg-id="239" tvg-name="中国教育-2" tvg-logo="https://epg.deny.vip/cctv/CETV-2.png" group-title="教育",中国教育-2
@@ -156,7 +149,6 @@ http://192.168.2.1:4022/udp/233.18.204.154:5140
 http://192.168.2.1:4022/udp/233.18.204.111:5140
 #EXTINF:-1 tvg-id="92" tvg-name="早期教育" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="教育",早期教育HD
 http://192.168.2.1:4022/udp/233.18.204.187:5140
-
 #EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.2.1:4022/udp/233.18.204.51:5140
 #EXTINF:-1 tvg-id="1011" tvg-name="东方卫视 4K" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视4K
@@ -259,3 +251,4 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
