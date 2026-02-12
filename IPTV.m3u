@@ -80,7 +80,7 @@ http://192.168.2.1:4022/udp/233.18.204.227:5140
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="4K频道",山东卫视 4K
 http://192.168.2.1:4022/udp/233.18.204.228:5140
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
-http://192.168.2.1:4022/udp/233.18.204.168:5140
+http://192.168.2.1:4022/udp/233.18.204.52:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2HD
 http://192.168.2.1:4022/udp/233.18.204.68:5140
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3HD
@@ -239,18 +239,6 @@ http://192.168.2.1:4022/udp/233.18.204.220:5140
 http://192.168.2.1:4022/udp/233.18.204.221:5140
 #EXTINF:-1 tvg-id="243" tvg-name="延边卫视" tvg-logo="https://epg.deny.vip/ws/yanbian.png" group-title="卫视",延边卫视
 http://192.168.2.1:4022/udp/233.18.204.155:5140
-#EXTINF:-1 group-title="成人",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Eroxxx
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Extasy
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="国际",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="国际",Brazzers
@@ -269,5 +257,6 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="国际",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
 
 
